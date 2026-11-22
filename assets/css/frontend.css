@@ -1,0 +1,60 @@
+/* wbogo frontend css */
+.wbogo-frontend {
+  border: 1px dashed #ddd;
+  padding: 12px;
+  margin-top: 16px;
+  background: #fbfbfb;
+}
+.wbogo-frontend h4 {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+}
+.wbogo-offer {
+  margin-bottom: 12px;
+}
+.wbogo-offer-head {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.wbogo-free-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-top: 1px solid #f0f0f0;
+}
+.wbogo-free-item:first-of-type {
+  border-top: none;
+}
+.wbogo-free-left {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+}
+.wbogo-free-left img {
+  width: 60px;
+  box-shadow: none;
+  height: 60px;
+  object-fit: cover;
+}
+.wbogo-free-title {
+  font-size: 14px;
+}
+.wbogo-regular {
+  text-decoration: line-through;
+  margin-right: 8px;
+  color: #999;
+}
+.wbogo-free-badge,
+.wbogo-free {
+  background: #2ecc71;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+.wbogo-regular,
+.wbogo-free-badge {
+  display: inline-block;
+  vertical-align: middle;
+}

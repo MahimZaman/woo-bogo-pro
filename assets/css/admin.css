@@ -1,0 +1,35 @@
+.wbogo-rules {
+  margin-top: 12px;
+}
+.wbogo-rule {
+  border: 1px solid #e5e5e5;
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #fff;
+}
+.wbogo-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+.wbogo-row label {
+  min-width: 180px;
+}
+.wbogo-free-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 6px;
+}
+.wbogo-free-row select.wbogo-product-select {
+  min-width: 300px;
+  max-width: 60%;
+}
+.wbogo-free-row input[type="number"] {
+  width: 80px;
+}
+.wbogo-admin-panel .button {
+  margin-right: 6px;
+}
