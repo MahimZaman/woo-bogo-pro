@@ -5,6 +5,8 @@
  * Description: Add BOGO rules per product (product data tab). Automatically adds free products when thresholds are met.
  * Version: 1.0.1
  * Author: Mahim Zaman
+ * Plugin URI: https://condixia.com
+ * Author URI: https://mahimzaman.com
  * Text Domain: wbogo
  */
 
